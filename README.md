@@ -1,3 +1,3 @@
 # Jogo do número secreto.
 
-##Desenvolvido como projeto pessoal.
+## Desenvolvido como projeto pessoal.
